@@ -10,3 +10,10 @@ h1{
     font-family:Verdana;
 
 }
+a{
+    color:(45, 204, 229, 0.977);
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:10px;
+    font-size:20px;
+}
